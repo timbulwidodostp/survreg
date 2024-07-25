@@ -1,6 +1,8 @@
 # survreg
 Regression for a Parametric Survival Model Use survreg With (In) R Software
 
+https://www.youtube.com/watch?v=LE1RhHbs-U8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
